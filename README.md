@@ -1,4 +1,4 @@
-# Paytm-clone [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FTailwind-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+# Paytm-clone
 
 This is basically a clone of [Paytm](https://paytm.com/) Desktop Version Website made purely in HTML5 and tailwind css a utility first css Framework. This has also been made mobile responsive for better view using Tailwind CSS
 Hope you like my project !!
